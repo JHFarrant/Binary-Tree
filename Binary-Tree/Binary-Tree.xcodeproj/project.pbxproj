@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0488490516E5751200BCB8ED /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0488490416E5751200BCB8ED /* main.cpp */; };
 		0488490716E5751200BCB8ED /* Binary_Tree.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0488490616E5751200BCB8ED /* Binary_Tree.1 */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 
 /* Begin PBXFileReference section */
 		0488490116E5751200BCB8ED /* Binary-Tree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Binary-Tree"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0488490416E5751200BCB8ED /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0488490616E5751200BCB8ED /* Binary_Tree.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Binary_Tree.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +58,6 @@
 		0488490316E5751200BCB8ED /* Binary-Tree */ = {
 			isa = PBXGroup;
 			children = (
-				0488490416E5751200BCB8ED /* main.cpp */,
 				0488490616E5751200BCB8ED /* Binary_Tree.1 */,
 			);
 			path = "Binary-Tree";
@@ -117,7 +114,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0488490516E5751200BCB8ED /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
