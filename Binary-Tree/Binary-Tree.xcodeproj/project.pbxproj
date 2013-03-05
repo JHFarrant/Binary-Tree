@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0488490716E5751200BCB8ED /* Binary_Tree.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0488490616E5751200BCB8ED /* Binary_Tree.1 */; };
+		04A2EA4A16E5785600FAC8D7 /* assignment2_template.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 04A2EA4916E5785600FAC8D7 /* assignment2_template.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -17,7 +17,6 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				0488490716E5751200BCB8ED /* Binary_Tree.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -25,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0488490116E5751200BCB8ED /* Binary-Tree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Binary-Tree"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0488490616E5751200BCB8ED /* Binary_Tree.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Binary_Tree.1; sourceTree = "<group>"; };
+		04A2EA4916E5785600FAC8D7 /* assignment2_template.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = assignment2_template.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +57,7 @@
 		0488490316E5751200BCB8ED /* Binary-Tree */ = {
 			isa = PBXGroup;
 			children = (
-				0488490616E5751200BCB8ED /* Binary_Tree.1 */,
+				04A2EA4916E5785600FAC8D7 /* assignment2_template.cpp */,
 			);
 			path = "Binary-Tree";
 			sourceTree = "<group>";
@@ -114,6 +113,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04A2EA4A16E5785600FAC8D7 /* assignment2_template.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,6 +212,7 @@
 				0488490C16E5751200BCB8ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
